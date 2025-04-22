@@ -19,13 +19,12 @@ Disclaimer: You should follow all rules of the creator of the tools or solutions
 - [Windows](#windows)
 - [Active Directory](#active-directory)
 - [Security Infrastructure](#security-infrastructure)
-- [Docker](#container)
+- [Container](#container)
 - [Regex and Programming](#regex-and-programming)
 - [Malware](#malware)
 - [Set Up your Home Lab](#set-up-your-home-lab)
 - [Hands on](#hands-on)
 - [Additional Resources](#additional-resources)
-
   
 ## InfoSec News, Blogs, etc
 - [Krebs on Security](https://krebsonsecurity.com/)
@@ -50,7 +49,6 @@ Disclaimer: You should follow all rules of the creator of the tools or solutions
 - [@HackingDave](https://twitter.com/HackingDave)
 - [@subTee](https://twitter.com/subTee) 
 - [@gentilkiwi](https://twitter.com/gentilkiwi)
-
 
 ## Recommended Podcasts
 - [Internet Storm Center Daily Information Security Podcast](https://isc.sans.edu/podcast.html)
@@ -122,6 +120,7 @@ Knowing the tactics, techniques, and procedures used by malicious actors to prob
 - [Deep Inside a DNS DDoS Amplification Attack](https://blog.cloudflare.com/deep-inside-a-dns-amplification-ddos-attack/)
 - [List of Adversary Emulation Tools](http://pentestit.com/adversary-emulation-tools-list/)
 - [Verizon Data Breach Investigations Report (DBIR)](https://www.verizon.com/business/resources/reports/dbir/)
+- [DefCon](https://www.youtube.com/@DEFCONConference/playlists)
 
 ## Vulnerabilities
 Understanding security vulnerabilities and where to get more information on them is a necessary skill. Many well known breaches were due to exploitation of an unpatched vulnerability.
