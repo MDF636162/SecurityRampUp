@@ -72,7 +72,7 @@ Disclaimer: You should follow all rules of the creator of the tools or solutions
 - [Red Team Field Manual](https://www.amazon.com/Blue-Team-Handbook-Condensed-Operations/dp/1091493898/ref=sr_1_1?keywords=Blue+Team+handbook+soc+siem+and+threat+hunting+use+cases&qid=1574749401&sr=8-1)
 - [The Web Application Hacker's Handbook 2nd edition: Finding and Exploiting Security Flaws](https://www.amazon.com/Web-Application-Hackers-Handbook-Exploiting/dp/1118026470/ref=sr_1_1?keywords=The+web+application+hackers+handbook+2nd+edition+finding+and+exploiting&qid=1574749540&sr=8-1)
 - [Malware Analyst’s Cookbook](https://www.walmart.com/ip/Malware-Analyst-s-Cookbook-and-DVD-Tools-and-Techniques-for-Fighting-Malicious-Code-9780470613030/13919663)
-- [The Art of Memory Forensics](https://www.walmart.com/ip/The-Art-of-Memory-Forensics-Detecting-Malware-and-Threats-in-Windows-Linux-and-Mac-Memory-9781118825099/33938941) 
+- [The Art of Memory Forensics](https://www.walmart.com/ip/The-Art-of-Memory-Forensics-Detecting-Malware-and-Threats-in-Windows--and-Mac-Memory-9781118825099/33938941) 
 - [Practical Malware Analysis: The Hands-On Guide to Dissecting Malicious Software](https://www.walmart.com/ip/Practical-Malware-Analysis-The-Hands-On-Guide-to-Dissecting-Malicious-Software-9781593272906/15885930)
 - [Incident Response & Computer Forensics, Third Edition](https://www.walmart.com/ip/Incident-Response-Computer-Forensics-Paperback-9780071798686/22556605)
 
@@ -102,6 +102,9 @@ Knowledge of networking is a critical foundation for all InfoSec analysts and is
 - [Subnetting](https://docs.microsoft.com/en-us/previous-versions/tn-archive/bb962065(v=technet.10)?redirectedfrom=MSDN)
 - [Virtual Private Networks](https://www.cisco.com/c/en/us/products/security/vpn-endpoint-security-clients/what-is-vpn.html)
 - [Cisco eLearning Network-CCENT up to CCIE](https://learningnetwork.cisco.com/community/learning_center/training-catalog/network-programmability)
+- [TCPDump Tutorial](https://danielmiessler.com/study/tcpdump/)
+- [Professor Messer CompTIA Network+ free training](https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/)
+- [What happens when you type google.com into your browser's address box and press enter?](https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a)
 
 ## Cryptography
 Knowledge of algorithms, ciphers, and security systems is useful to understand how it may be used to protect sensitive data or to conceal malicious activities.
@@ -130,15 +133,18 @@ Network traffic analysis is the process of recording, reviewing, and analyzing n
 - [Sample Captures of various protocols and devices](https://wiki.wireshark.org/SampleCaptures)
 - [Wireshark and Wireshark Security Videos](https://mnex.biz/index.php/videos/)
 
-## Linux
+## 
 Understanding the operating systems and internal tools better helps an analyst more effectively protect, diagnose, and triage systems.
-- [Linux Command Line Basics](https://www.udacity.com/course/linux-command-line-basics--ud595)
+- [ Command Line Basics](https://www.udacity.com/course/-command-line-basics--ud595)
 - [Linux Foundation - audit for free](https://www.edx.org/course/introduction-linux-linuxfoundationx-lfs101x-1)
 - [Introduction to Red Hat Linux - audit for free](https://www.edx.org/course/fundamentals-red-hat-enterprise-linux-red-hat-rh066x)
 - [Linux Essentials](https://www.netacad.com/courses/os-it/ndg-linux-essentials)
 - [Linux Server Hardening in 15 Steps](https://www.pluralsight.com/blog/it-ops/linux-hardening-secure-server-checklist)
 - [Introduction to OpenStack - audit for free](https://www.edx.org/course/introduction-to-openstack)
-
+- [VIM Tutorial](https://danielmiessler.com/study/vim/)
+- [Linux Academy](https://linuxacademy.com/)
+- [Linux Hardening Guide part 2](https://linuxacademy.com/howtoguides/posts/show/topic/19746-linux-security-and-server-hardening-part2)
+  
 ## Mac
  
 - [Objective See](https://www.objective-see.com/blog.html)
@@ -224,8 +230,6 @@ List of free and paid resource ideas to continue learning.
 <details><summary>Expand</summary>
   
   - [Command Line Crash Course - Linux and Windows](https://learnpythonthehardway.org/python3/appendixa.html)
-  - [Linux Academy](https://linuxacademy.com/)
-  - [Linux Hardening Guide part 2](https://linuxacademy.com/howtoguides/posts/show/topic/19746-linux-security-and-server-hardening-part2)
   - [Guidelines for System Hardening](https://www.cyber.gov.au/acsc/view-all-content/advice/guidelines-system-hardening)
   - [Pentester Lab](https://www.pentesterlab.com)
   - [Tufts Introduction to Computer Security](https://tuftsdev.github.io/DefenseAgainstTheDarkArts/)
@@ -234,11 +238,7 @@ List of free and paid resource ideas to continue learning.
   - [List of Hacking Environments](https://github.com/joe-shenouda/awesome-cyber-skills)
   - [Learn Python the Hard Way 3](https://learnpythonthehardway.org/python3/)
   - [Learn REGEX in 55 minutes](https://qntm.org/files/re/re.html)
-  - [Professor Messer CompTIA Network+ free training](https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/)
   - [Professor Messer CompTIA Security+ free training](https://www.professormesser.com/security-plus/sy0-501/sy0-501-training-course/)
-  - [What happens when you type google.com into your browser's address box and press enter?](https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a)
-  - [VIM Tutorial](https://danielmiessler.com/study/vim/)
-  - [TCPDump Tutorial](https://danielmiessler.com/study/tcpdump/)
   - [Selection of varied InfoSec and IT Tutorials](https://danielmiessler.com/study/)
   - [Open Source Intelligence Resources](https://start.me/p/m6XQ08/osint)
   - [VMWare Introduction - VMWare Certified Associate](https://vmwarelearningzone.vmware.com/oltpublish/site/cms.do?view=openlearning)
