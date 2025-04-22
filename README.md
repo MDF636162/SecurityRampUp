@@ -77,12 +77,16 @@ Disclaimer: You should follow all rules of the creator of the tools or solutions
 
 ## Recommended Certifications
 - [CompTIA Security+](https://certification.comptia.org/certifications/security)
+- [Professor Messer CompTIA Security+ free training](https://www.professormesser.com/security-plus/sy0-501/sy0-501-training-course/)
 - [CompTIA CyberSecurity Analyst +](https://certification.comptia.org/certifications/cybersecurity-analyst)
+- [Professor Messer CompTIA Network+ free training](https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/)
 - [Certified Ethical Hacker](https://www.eccouncil.org/programs/certified-ethical-hacker-ceh/)
 - [GIAC Continuous Monitoring Certification (GMON)](https://www.giac.org/certification/continuous-monitoring-certification-gmon)
 - [GIAC Certified Incident Handler (GCIH)](https://www.giac.org/certification/certified-incident-handler-gcih)
 - [GIAC Certified Intrusion Analyst (GCIA)](https://www.giac.org/certification/certified-intrusion-analyst-gcia)
 - [ISACA CSX](https://cybersecurity.isaca.org/csx-nexus)
+- [Selection of varied InfoSec and IT Tutorials](https://danielmiessler.com/study/)
+- [VMWare Introduction - VMWare Certified Associate](https://vmwarelearningzone.vmware.com/oltpublish/site/cms.do?view=openlearning)
 
 ## Basic Networking
 Knowledge of networking is a critical foundation for all InfoSec analysts and is used in several follow-on disciplines.
@@ -102,7 +106,6 @@ Knowledge of networking is a critical foundation for all InfoSec analysts and is
 - [Virtual Private Networks](https://www.cisco.com/c/en/us/products/security/vpn-endpoint-security-clients/what-is-vpn.html)
 - [Cisco eLearning Network-CCENT up to CCIE](https://learningnetwork.cisco.com/community/learning_center/training-catalog/network-programmability)
 - [TCPDump Tutorial](https://danielmiessler.com/study/tcpdump/)
-- [Professor Messer CompTIA Network+ free training](https://www.professormesser.com/network-plus/n10-007/n10-007-training-course/)
 - [What happens when you type google.com into your browser's address box and press enter?](https://medium.com/@maneesha.wijesinghe1/what-happens-when-you-type-an-url-in-the-browser-and-press-enter-bb0aa2449c1a)
 
 ## Cryptography
@@ -212,6 +215,7 @@ Setting up and utilizing a home lab allows a learner to put into practice the le
   ### Vulnerable applications and OS Images
   - [Metasploitable 3: Intentionally vulnerable linux image](https://github.com/rapid7/metasploitable3)
   - [OWASP Mutillidae 2: Vulnerable Web Aplication](https://owasp.org/www-project-mutillidae-ii/)
+  - [Pentester Lab](https://www.pentesterlab.com)
 
   ### Security Tools
   - [Sectools.org: List of the top 125 network security tools](http://sectools.org/)
@@ -228,23 +232,22 @@ Use the following scenarios and challenges to apply your knowledge. Some content
 - [Exploit and CTF Challenges](https://exploit-exercises.com/)
 - [VMs for hands-on security experience](https://www.vulnhub.com/)
 
+
+## OSINT
+  - [Open Source Intelligence Resources](https://start.me/p/m6XQ08/osint)
+
 ## Additional Resources
 List of free and paid resource ideas to continue learning.
 <details><summary>Expand</summary>
   
   - [Command Line Crash Course - Linux and Windows](https://learnpythonthehardway.org/python3/appendixa.html)
   - [Guidelines for System Hardening](https://www.cyber.gov.au/acsc/view-all-content/advice/guidelines-system-hardening)
-  - [Pentester Lab](https://www.pentesterlab.com)
   - [Tufts Introduction to Computer Security](https://tuftsdev.github.io/DefenseAgainstTheDarkArts/)
   - [List of InfoSec learning resources](https://github.com/onlurking/awesome-infosec)
   - [List of Hacking Resources](https://github.com/Hack-with-Github/Awesome-Hacking/blob/master/README.md)
   - [List of Hacking Environments](https://github.com/joe-shenouda/awesome-cyber-skills)
   - [Learn Python the Hard Way 3](https://learnpythonthehardway.org/python3/)
   - [Learn REGEX in 55 minutes](https://qntm.org/files/re/re.html)
-  - [Professor Messer CompTIA Security+ free training](https://www.professormesser.com/security-plus/sy0-501/sy0-501-training-course/)
-  - [Selection of varied InfoSec and IT Tutorials](https://danielmiessler.com/study/)
-  - [Open Source Intelligence Resources](https://start.me/p/m6XQ08/osint)
-  - [VMWare Introduction - VMWare Certified Associate](https://vmwarelearningzone.vmware.com/oltpublish/site/cms.do?view=openlearning)
   - [Open Courseware - Coursera](https://www.coursera.org/browse?languages=en)
   - [Open Courseware - CCCOER](https://www.cccoer.org/learn/find-oer/open-courseware/)
   - [Open Textbook - M.I.T.](https://ocw.mit.edu/courses/online-textbooks/)
