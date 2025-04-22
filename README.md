@@ -233,7 +233,10 @@ Use the following scenarios and challenges to apply your knowledge. Some content
 - [Metasploit Unleashed Course](https://www.offensive-security.com/metasploit-unleashed/)
 - [Exploit and CTF Challenges](https://exploit-exercises.com/)
 - [VMs for hands-on security experience](https://www.vulnhub.com/)
-
+- [Arizona State Pwn.College](https://ctf.asu.edu/education/)
+- [Hack the Box](https://www.hackthebox.com/)
+- [TryHackMe](https://tryhackme.com/)
+- [PicoCTF](https://picoctf.org/)
 
 ## OSINT
   - [Open Source Intelligence Resources](https://start.me/p/m6XQ08/osint)
@@ -251,5 +254,4 @@ List of free and paid resource ideas to continue learning.
   - [Open Courseware - Coursera](https://www.coursera.org/browse?languages=en)
   - [Open Courseware - CCCOER](https://www.cccoer.org/learn/find-oer/open-courseware/)
   - [Open Textbook - M.I.T.](https://ocw.mit.edu/courses/online-textbooks/)
-  - [US CyberPatriot - Resources](https://www.uscyberpatriot.org/competition/training-materials/additional-resources)
  </details>
