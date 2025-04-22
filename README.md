@@ -187,6 +187,8 @@ Many security and IT tools do not fully cover our needs as analysts and responde
 - [Bash Scripting Tutorial](https://linuxconfig.org/bash-scripting-tutorial-for-beginners) 
 - [Python for Security Professionals](https://www.cybrary.it/course/python/)
 - [W3 Schools - Learn HTML up to PHP and Perl](https://www.w3schools.com/default.asp)
+- [Learn Python the Hard Way 3](https://learnpythonthehardway.org/python3/)
+- [Learn REGEX in 55 minutes](https://qntm.org/files/re/re.html)
 
 ## Malware
 Malware analysis is the study or process of determining the functionality, origin and potential impact of a given malware sample such as a virus, worm, trojan horse, rootkit, or backdoor. Understanding how malware works is a key analytical skill.
@@ -246,8 +248,6 @@ List of free and paid resource ideas to continue learning.
   - [List of InfoSec learning resources](https://github.com/onlurking/awesome-infosec)
   - [List of Hacking Resources](https://github.com/Hack-with-Github/Awesome-Hacking/blob/master/README.md)
   - [List of Hacking Environments](https://github.com/joe-shenouda/awesome-cyber-skills)
-  - [Learn Python the Hard Way 3](https://learnpythonthehardway.org/python3/)
-  - [Learn REGEX in 55 minutes](https://qntm.org/files/re/re.html)
   - [Open Courseware - Coursera](https://www.coursera.org/browse?languages=en)
   - [Open Courseware - CCCOER](https://www.cccoer.org/learn/find-oer/open-courseware/)
   - [Open Textbook - M.I.T.](https://ocw.mit.edu/courses/online-textbooks/)
