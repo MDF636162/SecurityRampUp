@@ -24,6 +24,7 @@ Disclaimer: You should follow all rules of the creator of the tools or solutions
 - [Malware](#malware)
 - [Set Up your Home Lab](#set-up-your-home-lab)
 - [Hands on](#hands-on)
+- [Risk](#risk)
 - [Additional Resources](#additional-resources)
   
 ## InfoSec News, Blogs, etc
@@ -39,9 +40,10 @@ Disclaimer: You should follow all rules of the creator of the tools or solutions
 - [ThreatPost](https://threatpost.com/)
 - [Ars Technica Security](https://arstechnica.com/tag/security/)
 
-## Recommended Twitter Accounts to Follow
+## Recommended Social Media Accounts to Follow
 - [@briankrebs](https://twitter.com/briankrebs)
-- [@troyhunt](https://twitter.com/troyhunt)
+- [hasherezade](https://bsky.app/profile/hasherezade.bsky.social)
+- [@troyhunt.com](https://bsky.app/profile/troyhunt.com)
 - [@taviso](https://twitter.com/taviso)
 - [@jepayneMSFT](https://twitter.com/jepayneMSFT)
 - [@matthewdunwoody](https://twitter.com/matthewdunwoody)
@@ -49,6 +51,7 @@ Disclaimer: You should follow all rules of the creator of the tools or solutions
 - [@HackingDave](https://twitter.com/HackingDave)
 - [@subTee](https://twitter.com/subTee) 
 - [@gentilkiwi](https://twitter.com/gentilkiwi)
+- [@cybersecuritygirl](https://www.tiktok.com/@cybersecuritygirl)
 
 ## Recommended Podcasts
 - [Internet Storm Center Daily Information Security Podcast](https://isc.sans.edu/podcast.html)
@@ -241,6 +244,12 @@ Use the following scenarios and challenges to apply your knowledge. Some content
 ## OSINT
   - [Open Source Intelligence Resources](https://start.me/p/m6XQ08/osint)
 
+## Risk
+- [NIST Framework](https://www.nist.gov/cyberframework)
+- [CVE - Vulnerability Reporting and Risk](https://www.cve.org/About/Overview)
+- [CIA Triad - Confidentiality, Integrity, Availability](https://www.nccoe.nist.gov/publication/1800-26/VolA/index.html)
+- [Kill Chain by Lockheed Martin - Steps from Reconnaissance to Post Exploitation](https://www.lockheedmartin.com/en-us/capabilities/cyber/cyber-kill-chain.html)
+
 ## Additional Resources
 List of free and paid resource ideas to continue learning.
 <details><summary>Expand</summary>
@@ -254,4 +263,5 @@ List of free and paid resource ideas to continue learning.
   - [Open Courseware - Coursera](https://www.coursera.org/browse?languages=en)
   - [Open Courseware - CCCOER](https://www.cccoer.org/learn/find-oer/open-courseware/)
   - [Open Textbook - M.I.T.](https://ocw.mit.edu/courses/online-textbooks/)
+  - [IronGeek - Recorded Cybersecurity Conferences](https://www.youtube.com/@irongeek/playlists)
  </details>
