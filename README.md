@@ -19,6 +19,7 @@ Disclaimer: You should follow all rules of the creator of the tools or solutions
 - [Windows](#windows)
 - [Active Directory](#active-directory)
 - [Security Infrastructure](#security-infrastructure)
+- [Docker](#container)
 - [Regex and Programming](#regex-and-programming)
 - [Malware](#malware)
 - [Set Up your Home Lab](#set-up-your-home-lab)
@@ -170,6 +171,9 @@ Defense in depth is the implementation of layered devices (IDS, firewalls, AV, p
 - [Security Defense in Depth](https://www.sans.org/reading-room/whitepapers/basics/defense-in-depth-525)
 - [IDS/IPS - Defense in Depth](https://www.sans.org/reading-room/whitepapers/detection/understanding-ips-ids-ips-ids-defense-in-depth-1381)
 - [Firewalls](https://www.youtube.com/watch?v=JtKq39I7z6k)
+
+## Container
+- [Docker Explained in Depth](https://www.youtube.com/watch?v=pg19Z8LL06w&pp=ygUGZG9ja2Vy)
 
 ## Regex and Programming
 Many security and IT tools do not fully cover our needs as analysts and responders. Some of the key skills are being able to match, locate, and manage text through large amounts of data with REGEX or creating scripts/automations.
