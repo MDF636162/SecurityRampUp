@@ -5,7 +5,7 @@ Disclaimer: You should follow all rules of the creator of the tools or solutions
 
 ## Table of Contents
 - [InfoSec News, Blogs, etc](#infosec-news-blogs-etc)
-- [Recommended Twitter Accounts to Follow](#recommended-twitter-accounts-to-follow)
+- [Recommended Social Media Accounts to Follow](#recommended-social-media-accounts-to-follow)
 - [Recommended Podcasts](#recommended-podcasts)
 - [Recommended Books](#recommended-books)
 - [Recommended Certifications](#recommended-certifications)
